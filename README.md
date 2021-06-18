@@ -1,4 +1,4 @@
-## Laravel 7 multiple authentication system
+## React native infinite scroll using FlatList
 
 ## Clone this repo
 ```
